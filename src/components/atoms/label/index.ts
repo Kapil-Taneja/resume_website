@@ -1,1 +1,2 @@
-export { default } from './label';
+import  Label from './label';
+export default Label;
